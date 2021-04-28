@@ -1,0 +1,16 @@
+body{
+	background-color: #AAB0B5 ;
+	color: white;
+}
+
+section{
+	text-align: center;
+}
+
+section{
+	border: 5px solid black;
+}
+
+li{
+	display: list-item;
+}
